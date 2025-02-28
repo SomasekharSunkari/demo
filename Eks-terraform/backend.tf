@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "chatbot-store07"
+    bucket = "chatbot-store071"
     key    = "EKS/terraform.tfstate"
     region = "ap-south-1"
   }
